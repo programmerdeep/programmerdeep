@@ -1,6 +1,4 @@
 
- <img border-radius="50%" src="https://media-exp1.licdn.com/dms/image/C5603AQFLeL_YP75LcA/profile-displayphoto-shrink_200_200/0/1590320076325?e=1629936000&v=beta&t=kPNQexMM6Yf6Jodo7vymkX8FrtNt24Mmnpb_aAjS5h8"><br>
-# <h1>Satadeep Dasgupta</h1>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName) 
 <a href="https://github.com/programmerdeep/programmerdeep"><img src="https://img.shields.io/github/stars/programmerdeep/learnopencv" alt="Stars Badge"/></a>
 <a href="https://github.com/programmerdeep/programmerdeep"><img src="https://img.shields.io/github/forks/programmerdeep/learnopencv" alt="Forks Badge"/></a>
